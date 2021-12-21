@@ -27,7 +27,7 @@ topnav_dropdowns:
     - title: 모니터링 매뉴얼
       folderitems:
         - title: "공공기관"
-          url: /manual_introduction.html
+          url: /hometax_manual_01.html
         - title: "기타"
           url: /manual_datahub.html
         # - title: "은행"
@@ -36,7 +36,7 @@ topnav_dropdowns:
 topnav:
 - title: Topnav
   items:
-    - title: 모니터링 보고서
-      # url: 
+    - title: 근무자 업무매뉴얼
+      url: manual_introduction.html
 
 # Copyright 2021 Google LLC
