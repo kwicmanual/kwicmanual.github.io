@@ -1,0 +1,192 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: 모니터링 운영매뉴얼
+  version: 1.0
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  # - title: Introduction
+  #   output: web, pdf
+  #   folderitems:
+
+  #   - title: Overview
+  #     url: /p2_landing_page.html
+  #     output: web
+
+  - title: 간편조회
+    output: web, pdf
+    folderitems:
+
+    # - title: 경남은행 간편조회
+    #   url: /p2_sample1.html
+    #   output: web, pdf
+
+    # - title: 광주은행 간편조회
+    #   url: /p2_sample2.html
+    #   output: web, pdf
+
+    # - title: 국민은행 간편조회
+    #   url: /p2_sample3.html
+    #   output: web, pdf
+
+    # - title: 기업은행 간편조회
+    #   url: /p2_sample4.html
+    #   output: web, pdf
+
+    # - title: 농협은행 간편조회
+    #   url: /p2_sample5.html
+    #   output: web, pdf
+    
+    # - title: 대구은행 간편조회
+    #   url: /p2_sample5.html
+    #   output: web, pdf
+
+    # - title: 부산은행 간편조회
+    #   url: /p2_sample5.html
+    #   output: web, pdf
+
+    # - title: 산업은행 간편조회
+    #   url: /p2_sample5.html
+    #   output: web, pdf
+
+    # - title: 신한은행 간편조회
+    #   url: /p2_sample5.html
+    #   output: web, pdf
+
+    # - title: 새마을금고 간편조회
+    #   url: /p2_sample5.html
+    #   output: web, pdf
+
+    # - title: 씨티은행 간편조회
+    #   url: /p2_sample5.html
+    #   output: web, pdf
+
+    # - title: 우리은행 간편조회
+    #   url: /p2_sample5.html
+    #   output: web, pdf
+
+    # - title: 우체국 간편조회
+    #   url: /p2_sample5.html
+    #   output: web, pdf
+
+    # - title: 전북은행 간편조회
+    #   url: /p2_sample5.html
+    #   output: web, pdf
+
+    # - title: 제주은행 간편조회
+    #   url: /p2_sample5.html
+    #   output: web, pdf
+
+    # - title: KEB하나은행 간편조회
+    #   url: /p2_sample5.html
+    #   output: web, pdf
+
+    # - title: K뱅크 간편조회
+    #   url: /p2_sample5.html
+    #   output: web, pdf
+
+  - title: 은행 인증조회(법인)
+    output: web, pdf
+    folderitems:
+
+    # - title: KEB하나은행(법인)
+    #   url: /p2_sample6.html
+    #   output: web, pdf
+
+    # - title: SC제일은행(법인)
+    #   url: /p2_sample7.html
+    #   output: web, pdf
+
+    # - title: 경남은행(법인)
+    #   url: /p2_sample8.html
+    #   output: web, pdf
+
+    # - title: 광주은행(법인)
+    #   url: /p2_sample9.html
+    #   output: web, pdf
+
+    # - title: 국민은행(법인)
+    #   url: /p2_sample10.html
+    #   output: web, pdf
+
+    # - title: 기업은행(법인)
+    #   url: /p2_sample11.html
+    #   output: web, pdf
+
+    # - title: 농협은행(법인)
+    #   url: /p2_sample12.html
+    #   output: web, pdf
+
+    # - title: 대구은행(법인)
+    #   url: /p2_sample13.html
+    #   output: web, pdf
+
+    # - title: 부산은행(법인)
+    #   url: /p2_sample14.html
+    #   output: web, pdf
+
+    # - title: 산업은행(법인)
+    #   url: /p2_sample14.html
+    #   output: web, pdf
+
+    # - title: 새마을금고(법인)
+    #   url: /p2_sample14.html
+    #   output: web, pdf
+
+    # - title: 수협은행(법인)
+    #   url: /p2_sample14.html
+    #   output: web, pdf
+
+    # - title: 신한은행(법인)
+    #   url: /p2_sample14.html
+    #   output: web, pdf
+
+    # - title: 신협(법인)
+    #   url: /p2_sample14.html
+    #   output: web, pdf
+
+    # - title: 씨티은행(법인)
+    #   url: /p2_sample14.html
+    #   output: web, pdf
+
+    # - title: 우리은행(법인)
+    #   url: /p2_sample14.html
+    #   output: web, pdf
+
+    # - title: 우체국(법인)
+    #   url: /p2_sample14.html
+    #   output: web, pdf
+
+    # - title: 전북은행(법인)
+    #   url: /p2_sample14.html
+    #   output: web, pdf
+
+    # - title: 제주은행(법인)
+    #   url: /p2_sample14.html
+    #   output: web, pdf
+
+
+
+  - title: 은행 인증조회(개인)
+    output: web, pdf
+    folderitems:
+
+    # - title: Sample 6
+    #   url: /p2_sample6.html
+    #   output: web, pdf
+
+# Copyright 2021 Google LLC

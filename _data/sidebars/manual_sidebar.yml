@@ -1,0 +1,258 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: 공공기관 #모니터링 운영매뉴얼
+  version: #1.0
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: 홈택스
+    output: web, pdf
+    folderitems:
+
+    - title: 소득금액증명원
+      url: /hometax_manual_01.html
+      output: web, pdf
+
+  #   - title: 개인사업자조회
+  #     url: /p2_sample2.html
+  #     output: web, pdf
+
+  #   - title: 전자세금계산서
+  #     url: /p2_sample3.html
+  #     output: web, pdf
+
+  #   - title: 현금영수증 매입내역조회
+  #     url: /p2_sample4.html
+  #     output: web, pdf
+
+  #   - title: 사업자등록증명원
+  #     url: /p2_sample5.html
+  #     output: web, pdf
+    
+  #   - title: 현금영수증 매출내역조회
+  #     url: /p2_sample5.html
+  #     output: web, pdf
+
+  #   - title: 납세사실증명원
+  #     url: /p2_sample5.html
+  #     output: web, pdf
+
+  #   - title: 부가가치세과세표준증명원
+  #     url: /p2_sample5.html
+  #     output: web, pdf
+
+  #   - title: 로그인체크
+  #     url: /p2_sample5.html
+  #     output: web, pdf
+
+  #   - title: 표준재무제표증명원
+  #     url: /p2_sample5.html
+  #     output: web, pdf
+
+  #   - title: 국세완납증명
+  #     url: /p2_sample5.html
+  #     output: web, pdf
+
+  #   - title: 전자세금계산서합계표
+  #     url: /p2_sample5.html
+  #     output: web, pdf
+
+  #   - title: 연금보험료소득세액공제
+  #     url: /p2_sample5.html
+  #     output: web, pdf
+
+  #   - title: 소득확인증명
+  #     url: /p2_sample5.html
+  #     output: web, pdf
+
+  #   - title: 연말정산간소화
+  #     url: /p2_sample5.html
+  #     output: web, pdf
+
+  #   - title: 현금영수증월별조회
+  #     url: /p2_sample5.html
+  #     output: web, pdf
+
+  #   - title: 비로그인휴폐업조회
+  #     url: /p2_sample5.html
+  #     output: web, pdf
+
+  #   - title: 면세사업자
+  #     url: /p2_sample5.html
+  #     output: web, pdf
+
+  #   - title: 전자신고결과조회
+  #     url: /p2_sample5.html
+  #     output: web, pdf
+
+  #   - title: 공인인증서 자동등록
+  #     url: /p2_sample5.html
+  #     output: web, pdf
+
+  - title: 정부24
+    output: web, pdf
+    folderitems:
+
+  #   - title: 사전주소조회(1)
+  #     url: /p2_sample6.html
+  #     output: web, pdf
+
+  #   - title: 사전주소조회(2)
+  #     url: /p2_sample7.html
+  #     output: web, pdf
+
+    - title: 주민등록표 등초본 발급
+      url: /gov24_manual_01.html
+      output: web, pdf
+
+    - title: 주민증 진위여부 조회
+      url: /gov24_manual_02.html
+      output: web, pdf
+      
+    - title: 오프라인 진위여부 조회
+      url: /gov24_manual_03.html
+      output: web, pdf
+    
+    - title: 온라인 진위여부 조회
+      url: /gov24_manual_04.html
+      output: web, pdf
+
+    - title: 자동차 등록원부 발급
+      url: /gov24_manual_05.html
+      output: web, pdf
+      
+  #   - title: 주민등록표초본발급
+  #     url: /p2_sample9.html
+  #     output: web, pdf
+
+  #   - title: 지방세납세증명원
+  #     url: /p2_sample10.html
+  #     output: web, pdf
+
+  #   - title: 재산세과세증명원
+  #     url: /p2_sample11.html
+  #     output: web, pdf
+
+  #   - title: 주민등록표열람
+  #     url: /p2_sample12.html
+  #     output: web, pdf
+
+  #   - title: 간편주소사전조회(33)
+  #     url: /p2_sample13.html
+  #     output: web, pdf
+
+
+  - title: 건강보험
+    output: web, pdf
+    folderitems:
+
+    - title: 자격득실확인서발급
+      url: /nhis_manual_01.html
+      output: web, pdf
+
+    - title: 건강보험료납부내역
+      url: /nhis_manual_02.html
+      output: web, pdf
+
+    - title: 직장보험료 개인별조회
+      url: /nhis_manual_03.html
+      output: web, pdf
+
+  #   - title: 건강검진 결과목록
+  #     url: /p2_sample14.html
+  #     output: web, pdf
+
+  #   - title: 진료 및 투약정보조회
+  #     url: /p2_sample14.html
+  #     output: web, pdf
+
+  #   - title: 건강검진 결과 한눈에보기
+  #     url: /p2_sample14.html
+  #     output: web, pdf
+
+  #   - title: 진료받은내용 조회
+  #     url: /p2_sample14.html
+  #     output: web, pdf
+
+  #   - title: 건강검진대상조회
+  #     url: /p2_sample14.html
+  #     output: web, pdf
+
+  #   - title: 연금보험료 납부내역
+  #     url: /p2_sample14.html
+  #     output: web, pdf
+
+  #   - title: 4대보험 완납증명
+  #     url: /p2_sample14.html
+  #     output: web, pdf
+
+  #   - title: 증명서 진위여부조회
+  #     url: /p2_sample14.html
+  #     output: web, pdf
+
+  - title: 국민연금
+    output: web, pdf
+    folderitems:
+
+      - title: 가입증명서 조회
+        url: /nps_manual_01.html
+        output: web, pdf
+      
+      - title: 연금산정용 내역확인서
+        url: /nps_manual_02.html
+        output: web, pdf
+
+  - title: eCar
+    output: web, pdf
+    folderitems:
+
+      - title: eCar 자동차 등록원부 발급
+        url: /ecar_manual_01.html
+        output: web, pdf
+
+  - title: 운전면허
+    output: web, pdf
+    folderitems:
+
+      - title: 운전면허 진위여부 조회(SafeDriving)
+        url: /driving_manual_01.html
+        output: web, pdf
+      
+      - title: 운전면허 진위여부 조회(경찰청)
+        url: /driving_manual_02.html
+        output: web, pdf
+
+  - title: 하이코리아
+    output: web, pdf
+    folderitems:
+
+      - title: 외국인 진위여부 조회
+        url: /hikorea_manual_01.html
+        output: web, pdf
+
+
+  # - title: 발급문서 진위확인
+  #   output: web, pdf
+  #   folderitems:
+
+  #     - title: 오프라인 진위여부 조회
+  #       url: /gov24_manual_03.html
+  #       output: web, pdf
+      
+  #     - title: 온라인 진위여부 조회
+  #       url: /gov24_manual_04.html
+  #       output: web, pdf

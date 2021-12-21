@@ -1,0 +1,28 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: 데이터허브 매뉴얼 #모니터링 운영매뉴얼
+  version: #1.0
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: 데이터허브
+    output: web, pdf
+    folderitems:
+
+    - title: 공통
+      url: /manual_datahub.html
+      output: web, pdf
