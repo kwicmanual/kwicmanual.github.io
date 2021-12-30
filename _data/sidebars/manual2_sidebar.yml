@@ -31,77 +31,89 @@ entries:
     output: web, pdf
     folderitems:
 
-    # - title: 경남은행 간편조회
-    #   url: /p2_sample1.html
-    #   output: web, pdf
+    - title: 경남은행 간편조회
+      url: /fastbank_manual_01.html
+      output: web, pdf
 
-    # - title: 광주은행 간편조회
-    #   url: /p2_sample2.html
-    #   output: web, pdf
+    - title: 광주은행 간편조회
+      url: /fastbank_manual_02.html
+      output: web, pdf
 
-    # - title: 국민은행 간편조회
-    #   url: /p2_sample3.html
-    #   output: web, pdf
+    - title: 국민은행 간편조회
+      url: /fastbank_manual_03.html
+      output: web, pdf
 
-    # - title: 기업은행 간편조회
-    #   url: /p2_sample4.html
-    #   output: web, pdf
+    - title: 기업은행 간편조회
+      url: /fastbank_manual_04.html
+      output: web, pdf
 
-    # - title: 농협은행 간편조회
-    #   url: /p2_sample5.html
-    #   output: web, pdf
+    - title: 농협은행 간편조회
+      url: /fastbank_manual_05.html
+      output: web, pdf
     
-    # - title: 대구은행 간편조회
-    #   url: /p2_sample5.html
-    #   output: web, pdf
+    - title: 대구은행 간편조회
+      url: /fastbank_manual_06.html
+      output: web, pdf
 
-    # - title: 부산은행 간편조회
-    #   url: /p2_sample5.html
-    #   output: web, pdf
+    - title: 부산은행 간편조회
+      url: /fastbank_manual_07.html
+      output: web, pdf
 
-    # - title: 산업은행 간편조회
-    #   url: /p2_sample5.html
-    #   output: web, pdf
+    - title: 산업은행 간편조회
+      url: /fastbank_manual_08.html
+      output: web, pdf
 
-    # - title: 신한은행 간편조회
-    #   url: /p2_sample5.html
-    #   output: web, pdf
+    - title: 신한은행 간편조회
+      url: /fastbank_manual_09.html
+      output: web, pdf
 
-    # - title: 새마을금고 간편조회
-    #   url: /p2_sample5.html
-    #   output: web, pdf
+    - title: 신협 간편조회
+      url: /fastbank_manual_11.html
+      output: web, pdf
 
-    # - title: 씨티은행 간편조회
-    #   url: /p2_sample5.html
-    #   output: web, pdf
+    - title: 수협은행 간편조회
+      url: /fastbank_manual_12.html
+      output: web, pdf
 
-    # - title: 우리은행 간편조회
-    #   url: /p2_sample5.html
-    #   output: web, pdf
+    - title: 새마을금고 간편조회
+      url: /fastbank_manual_10.html
+      output: web, pdf
 
-    # - title: 우체국 간편조회
-    #   url: /p2_sample5.html
-    #   output: web, pdf
+    - title: 씨티은행 간편조회
+      url: /fastbank_manual_13.html
+      output: web, pdf
 
-    # - title: 전북은행 간편조회
-    #   url: /p2_sample5.html
-    #   output: web, pdf
+    - title: 우리은행 간편조회
+      url: /fastbank_manual_14.html
+      output: web, pdf
 
-    # - title: 제주은행 간편조회
-    #   url: /p2_sample5.html
-    #   output: web, pdf
+    - title: 우체국 간편조회
+      url: /fastbank_manual_15.html
+      output: web, pdf
 
-    # - title: KEB하나은행 간편조회
-    #   url: /p2_sample5.html
-    #   output: web, pdf
+    - title: 전북은행 간편조회
+      url: /fastbank_manual_16.html
+      output: web, pdf
 
-    # - title: K뱅크 간편조회
-    #   url: /p2_sample5.html
-    #   output: web, pdf
+    - title: 제주은행 간편조회
+      url: /fastbank_manual_17.html
+      output: web, pdf
 
-  - title: 은행 인증조회(법인)
-    output: web, pdf
-    folderitems:
+    - title: KEB하나은행 간편조회
+      url: /fastbank_manual_18.html
+      output: web, pdf
+
+    - title: K뱅크 간편조회
+      url: /fastbank_manual_19.html
+      output: web, pdf
+    
+    - title: SC은행 간편조회
+      url: /fastbank_manual_20.html
+      output: web, pdf
+
+  # - title: 은행 인증조회(법인)
+  #   output: web, pdf
+  #   folderitems:
 
     # - title: KEB하나은행(법인)
     #   url: /p2_sample6.html
@@ -181,9 +193,9 @@ entries:
 
 
 
-  - title: 은행 인증조회(개인)
-    output: web, pdf
-    folderitems:
+  # - title: 은행 인증조회(개인)
+  #   output: web, pdf
+  #   folderitems:
 
     # - title: Sample 6
     #   url: /p2_sample6.html
