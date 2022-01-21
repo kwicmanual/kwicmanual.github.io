@@ -1,0 +1,76 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: 모니터링 운영매뉴얼
+  version: #1.0
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: 승인내역조회
+    output: web, pdf
+    folderitems:
+
+    - title: KB법인카드
+      url: /card_manual_01.html
+      output: web, pdf
+
+    - title: NH법인카드
+      url: /card_manual_02.html
+      output: web, pdf
+    
+    - title: BC법인카드
+      url: /card_manual_03.html
+      output: web, pdf
+
+    # - title: 롯데법인카드
+    #   url: /card_manual_04.html
+    #   output: web, pdf
+
+    # - title: 하나법인카드
+    #   url: /card_manual_05.html
+    #   output: web, pdf
+    
+    # - title: 우리법인카드
+    #   url: /card_manual_06.html
+    #   output: web, pdf
+    
+    # - title: 삼성법인카드
+    #   url: /card_manual_07.html
+    #   output: web, pdf
+
+    # - title: 신한법인카드
+    #   url: /card_manual_08.html
+    #   output: web, pdf
+    
+    # - title: 씨티법인카드
+    #   url: /card_manual_09.html
+    #   output: web, pdf
+    
+    # - title: 현대법인카드
+    #   url: /card_manual_10.html
+    #   output: web, pdf
+    
+    # - title: 전북법인카드
+    #   url: /card_manual_11.html
+    #   output: web, pdf
+
+    # - title: 수협법인카드
+    #   url: /card_manual_12.html
+    #   output: web, pdf
+    
+    # - title: 광주법인카드
+    #   url: /card_manual_13.html
+    #   output: web, pdf

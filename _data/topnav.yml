@@ -30,6 +30,8 @@ topnav_dropdowns:
           url: /hometax_manual_01.html
         - title: "은행"
           url: /fastbank_manual_01.html
+        - title: "카드"
+          url: /card_manual_01.html
         - title: "기타"
           url: /manual_datahub.html
         # - title: "은행"
