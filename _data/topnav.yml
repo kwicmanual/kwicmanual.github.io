@@ -14,10 +14,8 @@ topnav_dropdowns:
   folders:
     - title: 참고사이트
       folderitems:
-        - title: "그라파나 외부연결" #Jekyll Talk
+        - title: "그라파나(모니터링) 연결" #Jekyll Talk
           external_url: http://121.189.16.174:3000/ #https://talk.jekyllrb.com
-        - title: "그라파나 내부접속(외부연결X)" #Jekyll documentation
-          external_url: http://192.168.42.20:3000/ #http://jekyllrb.com/docs/home/
         # - title: "키바나 접속하기" #Jekyll on Stack Overflow
         #   external_url: http://stackoverflow.com/questions/tagged/jekyll
         # - title: "일일보고서용 키바나" #Jekyll on my blog
