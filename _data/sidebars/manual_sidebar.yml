@@ -127,3 +127,11 @@ entries:
         url: /einsmarket_manual_01.html
         output: web, pdf
 
+  - title: 4대사회보험
+    output: web, pdf
+    folderitems:
+
+      - title: 4대사회보험
+        url: /4insure_manual_01.html
+        output: web, pdf
+
