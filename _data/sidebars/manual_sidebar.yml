@@ -135,3 +135,10 @@ entries:
         url: /4insure_manual_01.html
         output: web, pdf
 
+  - title: 후견등기시스템
+    output: web, pdf
+    folderitems:
+
+      - title: 후견등기시스템
+        url: /MLEGGM_manual_01.html
+        output: web, pdf
