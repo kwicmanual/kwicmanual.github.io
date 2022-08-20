@@ -26,6 +26,26 @@ entries:
     - title: 소득금액증명원
       url: /hometax_manual_01.html
       output: web, pdf
+    
+    - title: 개인사업자여부조회
+      url: /hometax_manual_02.html
+      output: web, pdf
+    
+    - title: 비로그인 휴폐업조회
+      url: /hometax_manual_03.html
+      output: web, pdf
+
+    - title: 사업자등록증명원
+      url: /hometax_manual_04.html
+      output: web, pdf
+    
+    - title: 표준재무제표증명원
+      url: /hometax_manual_05.html
+      output: web, pdf
+
+    - title: 부가가치세과세표준증명원
+      url: /hometax_manual_06.html
+      output: web, pdf
 
   - title: 정부24
     output: web, pdf
@@ -61,6 +81,14 @@ entries:
 
     - title: 여권 진위여부 조회
       url: /gov24_manual_08.html
+      output: web, pdf
+
+    - title: 지방세납세증명원 발급
+      url: /gov24_manual_09.html
+      output: web, pdf
+    
+    - title: 주민등록표 열람
+      url: /gov24_manual_10.html
       output: web, pdf
 
   - title: 건강보험
@@ -141,4 +169,32 @@ entries:
 
       - title: 후견등기시스템
         url: /MLEGGM_manual_01.html
+        output: web, pdf
+  
+  - title: 전자가족관계등록시스템
+    output: web, pdf
+    folderitems:
+
+      - title: 가족관계등록부 신청
+        url: /MLFRGM_manual_01.html
+        output: web, pdf
+  
+  - title: 여신금융협회
+    output: web, pdf
+    folderitems:
+
+      - title: 가맹점정보 조회
+        url: /MLCSGM_manual_01.html
+        output: web, pdf
+
+      - title: 기간별 승인내역조회
+        url: /MLCSGM_manual_02.html
+        output: web, pdf
+      
+      - title: 기간별 매입내역조회
+        url: /MLCSGM_manual_03.html
+        output: web, pdf
+      
+      - title: 기간별 입금내역조회
+        url: /MLCSGM_manual_04.html
         output: web, pdf
