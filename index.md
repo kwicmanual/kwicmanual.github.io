@@ -14,6 +14,7 @@ summary: 디몬팀의 장애대응 매뉴얼 화면입니다.
     모니터링 레벨순위
 
  <left><img src="/images/monitoring_level.png" width="100%" height="100%"></left>
+ <left><img src="/images/alert_manual.png" width="100%" height="100%"></left>
 
     팀원 역할
 
