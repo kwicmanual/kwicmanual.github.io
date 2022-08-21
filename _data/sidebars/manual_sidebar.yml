@@ -47,6 +47,54 @@ entries:
       url: /hometax_manual_06.html
       output: web, pdf
 
+    - title: 부가가치세 면세사업자 수입금액증명
+      url: /hometax_manual_07.html
+      output: web, pdf
+    
+    - title: 국세완납증명
+      url: /hometax_manual_08.html
+      output: web, pdf
+    
+    - title: 납세사실증명원
+      url: /hometax_manual_09.html
+      output: web, pdf
+
+    - title: 전자세금계산서 매출내역 조회
+      url: /hometax_manual_10.html
+      output: web, pdf
+
+    - title: 전자세금계산서 매입내역 조회
+      url: /hometax_manual_11.html
+      output: web, pdf
+
+    - title: 전자세금계산서 매출내역 합계표 조회
+      url: /hometax_manual_12.html
+      output: web, pdf
+
+    - title: 전자세금계산서 매입내역 합계표 조회
+      url: /hometax_manual_13.html
+      output: web, pdf
+
+    - title: 현금영수증 매입내역 조회
+      url: /hometax_manual_14.html
+      output: web, pdf
+
+    - title: 현금영수증 매입내역누계 조회
+      url: /hometax_manual_15.html
+      output: web, pdf
+
+    - title: 현금영수증 매출내역 조회
+      url: /hometax_manual_16.html
+      output: web, pdf
+
+    - title: 현금영수증 매출내역누계 조회
+      url: /hometax_manual_17.html
+      output: web, pdf
+    
+    - title: 현금영수증 사용내역조회
+      url: /hometax_manual_18.html
+      output: web, pdf
+
   - title: 정부24
     output: web, pdf
     folderitems:
