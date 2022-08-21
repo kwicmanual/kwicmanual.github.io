@@ -107,25 +107,25 @@ entries:
       url: /gov24_manual_02.html
       output: web, pdf
       
-    - title: 오프라인 진위여부 조회
-      url: /gov24_manual_03.html
-      output: web, pdf
+    # - title: 오프라인 진위여부 조회
+    #   url: /gov24_manual_03.html
+    #   output: web, pdf
     
-    - title: 온라인 진위여부 조회
-      url: /gov24_manual_04.html
-      output: web, pdf
+    # - title: 온라인 진위여부 조회
+    #   url: /gov24_manual_04.html
+    #   output: web, pdf
 
     - title: 자동차 등록원부 발급
       url: /gov24_manual_05.html
       output: web, pdf
     
-    - title: 인감증명서 진위여부 조회
-      url: /gov24_manual_06.html
-      output: web, pdf
+    # - title: 인감증명서 진위여부 조회
+    #   url: /gov24_manual_06.html
+    #   output: web, pdf
     
-    - title: 본인서명 사실확인 조회
-      url: /gov24_manual_07.html
-      output: web, pdf
+    # - title: 본인서명 사실확인 조회
+    #   url: /gov24_manual_07.html
+    #   output: web, pdf
 
     - title: 여권 진위여부 조회
       url: /gov24_manual_08.html
@@ -195,21 +195,21 @@ entries:
         url: /hikorea_manual_01.html
         output: web, pdf
 
-  - title: 보험다모아
-    output: web, pdf
-    folderitems:
+  # - title: 보험다모아
+  #   output: web, pdf
+  #   folderitems:
 
-      - title: 보험다모아
-        url: /einsmarket_manual_01.html
-        output: web, pdf
+  #     - title: 보험다모아
+  #       url: /einsmarket_manual_01.html
+  #       output: web, pdf
 
-  - title: 4대사회보험
-    output: web, pdf
-    folderitems:
+  # - title: 4대사회보험
+  #   output: web, pdf
+  #   folderitems:
 
-      - title: 4대사회보험
-        url: /4insure_manual_01.html
-        output: web, pdf
+  #     - title: 4대사회보험
+  #       url: /4insure_manual_01.html
+  #       output: web, pdf
 
   - title: 후견등기시스템
     output: web, pdf
