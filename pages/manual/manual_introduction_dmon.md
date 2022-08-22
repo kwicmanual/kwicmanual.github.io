@@ -1,10 +1,21 @@
 ---
-title: 모니터링 근무자 업무 매뉴얼
+title: 디몬팀원 매뉴얼
 sidebar: manual_sidebar
-permalink: manual_introduction.html
+permalink: manual_introduction_dmon.html
 folder: manual
 ---
 
+    모니터링 레벨순위
+<left><img src="/images/monitoring_level_dmon.png" width="100%" height="100%"></left>
+<left><img src="/images/alert_manual_dmon.png" width="100%" height="100%"></left>
+
+    근무자 역할
+<left><img src="/images/team_role_dmon.png" width="100%" height="100%"></left>
+
+<p style="color:red;">페이지 작성 중에 있습니다.</p>
+
+
+<!-- 
 {% include checkErr.html %}
 <p style="color:red;">장애가 발생된 상황에서 5분내로 담당자가 문자 회신이 없을 경우 전화 해주시기 바랍니다.</p>
 
@@ -47,4 +58,4 @@ folder: manual
 2. 사전에 의논없이 휴가를 통보하여 업무에 공백이 발생할 경우(최소 1~2주 전 미리 상의 바랍니다.)
 해당 사항이 발생할 경우 업무는 종료됩니다." %}
 
-{% include links.html %}
+{% include links.html %} -->

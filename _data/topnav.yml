@@ -14,14 +14,17 @@ topnav_dropdowns:
   folders:
     - title: 참고사이트
       folderitems:
-        - title: "그라파나(모니터링) 연결" #Jekyll Talk
-          external_url: http://121.189.16.174:3000/ #https://talk.jekyllrb.com
-        # - title: "키바나 접속하기" #Jekyll on Stack Overflow
-        #   external_url: http://stackoverflow.com/questions/tagged/jekyll
-        # - title: "일일보고서용 키바나" #Jekyll on my blog
-        #   external_url: http://idratherbewriting.com/category-jekyll/
-        # - title: "운영페이지" #Jekyll on my blog
-        #   external_url: http://idratherbewriting.com/category-jekyll/
+        - title: "그라파나(모니터링)"
+          external_url: http://kwicmon.scraping.co.kr/ #http://121.189.16.174:3000/
+        - title: "Kibana(SmartAIB)"
+          external_url: https://kibana-soc.scraping.co.kr/
+        - title: "업무리스트 목록"
+          external_url: https://docs.google.com/spreadsheets/d/1NxnXvJfoezaetSoBpk3T7ONVHXpCgs_QONMcgR0xWtE/edit?usp=sharing
+        - title: "Kibana(api) - 외부접속X"
+          external_url: http://datahub-kt.scraping.co.kr:5601/app/kibana     #121.189.16.61:5601
+        - title: "운영페이지 - 외부접속X"
+          external_url: http://172.16.2.71:22005 
+
     - title: 모니터링 매뉴얼
       folderitems:
         - title: "공공기관"
@@ -32,13 +35,23 @@ topnav_dropdowns:
           url: /card_manual_01.html
         - title: "기타"
           url: /manual_datahub.html
+        - title: "데이터 통계"
+          url: /statistics_introduction.html
+
+    - title: 근무자 매뉴얼
+      folderitems:
+        - title: "알바생 매뉴얼"
+          url: /manual_introduction_alba.html
+        - title: "디몬팀원 매뉴얼"
+          url: /manual_introduction_dmon.html
+
         # - title: "은행"
         #   url: /p2_landing_page.html
 
-topnav:
-- title: Topnav
-  items:
-    - title: 근무자 업무매뉴얼
-      url: manual_introduction.html
+# topnav:
+# - title: Topnav
+#   items:
+#     - title: 근무자 매뉴얼
+#       url: manual_introduction.html
 
 # Copyright 2021 Google LLC
