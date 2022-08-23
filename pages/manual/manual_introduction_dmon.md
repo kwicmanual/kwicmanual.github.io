@@ -12,6 +12,28 @@ folder: manual
     근무자 역할
 <left><img src="/images/team_role_dmon.png" width="100%" height="100%"></left>
 
+    
+
+
+
+
+## 장애 대응 매뉴얼
+    장애는 아래와 같이 3단계로 분류됩니다.
+    1,2단계는 입력정보 및 로그정보를 VOC로 작성하여, 담당팀에 전달해주시기 바랍니다.
+    3단계는 내용을 정리하여, 디몬 팀장에게 보고 합니다.
+<left><img src="/images/error_range.png" width="100%" height="100%"></left>
+
+
+## 장애VOC 기재 방법
+    VOC 기재는 다음과 같은 양식을 유지하여 작성해주시기 바랍니다. 
+
+<left><img src="/images/issue_type.png" width="100%" height="100%"></left>
+<left><img src="/images/issue_title.png" width="100%" height="100%"></left>
+<left><img src="/images/issue_contents.png" width="100%" height="100%"></left>
+
+
+
+
 <p style="color:red;">페이지 작성 중에 있습니다.</p>
 
 
