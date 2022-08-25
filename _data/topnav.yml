@@ -20,10 +20,13 @@ topnav_dropdowns:
           external_url: https://kibana-soc.scraping.co.kr/
         - title: "업무리스트 목록"
           external_url: https://docs.google.com/spreadsheets/d/1NxnXvJfoezaetSoBpk3T7ONVHXpCgs_QONMcgR0xWtE/edit?usp=sharing
+        - title: "기웅서비스 현황판"
+          external_url: https://statuspage.scraping.co.kr/
         - title: "Kibana(api) - 외부접속X"
           external_url: http://datahub-kt.scraping.co.kr:5601/app/kibana     #121.189.16.61:5601
         - title: "운영페이지 - 외부접속X"
           external_url: http://172.16.2.71:22005 
+        
 
     - title: 모니터링 매뉴얼
       folderitems:
