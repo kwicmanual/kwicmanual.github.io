@@ -22,7 +22,7 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: 키바나 소개
+    - title: ElasticSearch 및 Kibana 소개
       url: /kibana_manual01.html
       output: web, pdf
 
@@ -30,22 +30,22 @@ entries:
       url: /kibana_manual02.html
       output: web, pdf
     
-    - title: 키바나 사용방법
+    - title: 키바나 사용예시
       url: /kibana_manual03.html
       output: web, pdf
 
-  - title: Grafana 매뉴얼
-    output: web, pdf
-    folderitems:
+  # - title: Grafana 매뉴얼
+  #   output: web, pdf
+  #   folderitems:
 
-    - title: 그라파나 소개
-      url: /grafana_manual01.html
-      output: web, pdf
+  #   - title: 그라파나 소개
+  #     url: /grafana_manual01.html
+  #     output: web, pdf
 
-    - title: 그라파나 구성
-      url: /grafana_manual02.html
-      output: web, pdf
+  #   - title: 그라파나 구성
+  #     url: /grafana_manual02.html
+  #     output: web, pdf
     
-    - title: 그라파나 사용방법
-      url: /grafana_manual03.html
-      output: web, pdf
+  #   - title: 그라파나 사용방법
+  #     url: /grafana_manual03.html
+  #     output: web, pdf
