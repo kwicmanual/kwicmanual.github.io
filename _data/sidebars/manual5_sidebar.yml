@@ -1,0 +1,51 @@
+
+entries:
+- title: sidebar
+  product: 데이터 대시보드 매뉴얼
+  version: #1.0
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Kibana 매뉴얼
+    output: web, pdf
+    folderitems:
+
+    - title: 키바나 소개
+      url: /kibana_manual01.html
+      output: web, pdf
+
+    - title: 키바나 구성
+      url: /kibana_manual02.html
+      output: web, pdf
+    
+    - title: 키바나 사용방법
+      url: /kibana_manual03.html
+      output: web, pdf
+
+  - title: Grafana 매뉴얼
+    output: web, pdf
+    folderitems:
+
+    - title: 그라파나 소개
+      url: /grafana_manual01.html
+      output: web, pdf
+
+    - title: 그라파나 구성
+      url: /grafana_manual02.html
+      output: web, pdf
+    
+    - title: 그라파나 사용방법
+      url: /grafana_manual03.html
+      output: web, pdf

@@ -76,6 +76,10 @@ defaults:
 sidebars:
 - manual_sidebar
 - manual2_sidebar
+- manual3_sidebar
+- manual4_sidebar
+- manual5_sidebar
+- manual6_sidebar
 # - other
 
 description: 

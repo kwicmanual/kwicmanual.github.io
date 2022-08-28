@@ -1,13 +1,13 @@
 ---
 title: 알바생 매뉴얼
-sidebar: manual_sidebar
+keywords: 디몬, 알바생, 매뉴얼, DMON, 업무, 업무 매뉴얼
+last_updated: Aug 28, 2022
+tags: #[getting_started]
+summary: "알바생 업무 매뉴얼 화면입니다."
+sidebar: manual6_sidebar
 permalink: manual_introduction_alba.html
 folder: manual
 ---
-
-    모니터링 레벨순위
-<left><img src="/images/monitoring_level_alba.png" width="100%" height="100%"></left>
-<left><img src="/images/alert_manual_alba.png" width="100%" height="100%"></left>
 
 {% include checkErr.html %}
 <p style="color:red;">장애가 발생된 상황에서 5분내로 담당자가 문자 회신이 없을 경우 전화 해주시기 바랍니다.</p>

@@ -1,0 +1,61 @@
+
+entries:
+- title: sidebar
+  product: DMON팀 업무 매뉴얼
+  version: #1.0
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: DMON
+    output: web, pdf
+    folderitems:
+
+    - title: 소개
+      url: /dmon_introduce.html
+      output: web, pdf
+
+    - title: 장애대응 프로세스
+      url: /dmon_process.html
+      output: web, pdf
+    
+    - title: 모니터링 레벨순위
+      url: /dmon_monitoring_level.html
+      output: web, pdf
+
+
+  - title: 알바생 매뉴얼
+    output: web, pdf
+    folderitems:
+
+    - title: 알람대응 매뉴얼
+      url: /manual_introduction_alba.html
+      output: web, pdf
+
+
+  - title: 팀원 매뉴얼
+    output: web, pdf
+    folderitems:
+
+    - title: 장애대응 매뉴얼
+      url: /manual_introduction_dmon01.html
+      output: web, pdf
+
+    - title: 장애VOC 기재방법
+      url: /manual_introduction_dmon02.html
+      output: web, pdf
+    
+    - title: 장애상황 안내
+      url: /manual_introduction_dmon03.html
+      output: web, pdf
