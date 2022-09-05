@@ -35,17 +35,17 @@ entries:
       url: /card_manual_03.html
       output: web, pdf
 
-    # - title: 롯데법인카드
-    #   url: /card_manual_04.html
-    #   output: web, pdf
+    - title: 롯데법인카드
+      url: /card_manual_04.html
+      output: web, pdf
 
-    # - title: 하나법인카드
-    #   url: /card_manual_05.html
-    #   output: web, pdf
+    - title: 하나법인카드
+      url: /card_manual_05.html
+      output: web, pdf
     
-    # - title: 우리법인카드
-    #   url: /card_manual_06.html
-    #   output: web, pdf
+    - title: 우리법인카드
+      url: /card_manual_06.html
+      output: web, pdf
     
     # - title: 삼성법인카드
     #   url: /card_manual_07.html
@@ -74,3 +74,7 @@ entries:
     # - title: 광주법인카드
     #   url: /card_manual_13.html
     #   output: web, pdf
+
+  - title: 매입내역조회
+    output: web, pdf
+    folderitems:
