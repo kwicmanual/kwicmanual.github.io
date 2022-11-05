@@ -7,12 +7,14 @@ topnav_dropdowns:
           external_url: http://kwicmon.scraping.co.kr/ #http://121.189.16.174:3000/
         - title: "Kibana(SmartAIB)"
           external_url: https://kibana-soc.scraping.co.kr/
-        - title: "Kibana(api) - 외부접속X"
-          external_url: http://datahub-kt.scraping.co.kr:5601/app/kibana     #121.189.16.61:5601
+        - title: "Playground 테스트"
+          external_url: https://playground-smartaib4pc.scraping.co.kr/connection
         - title: "기웅서비스 현황판"
           external_url: https://statuspage.scraping.co.kr/      #https://statuspage.scraping.co.kr/dashboard
         - title: "모니터링 리스트"
           external_url: https://docs.google.com/spreadsheets/d/1NxnXvJfoezaetSoBpk3T7ONVHXpCgs_QONMcgR0xWtE/edit?usp=sharing
+        - title: "Kibana(api) - 외부접속X"
+          external_url: http://datahub-kt.scraping.co.kr:5601/app/kibana     #121.189.16.61:5601
         - title: "운영페이지 - 외부접속X"
           external_url: http://172.16.2.71:22005 
         
