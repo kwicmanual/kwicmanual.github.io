@@ -1,0 +1,92 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: 배달앱 사이트 매뉴얼 
+  version: #1.0
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: 배달의민족
+    output: web, pdf
+    folderitems:
+
+    - title: 정산내역조회
+      url: /delivery_manual_01.html
+      output: web, pdf
+
+    - title: 매출내역조회
+      url: /delivery_manual_02.html
+      output: web, pdf
+    
+    - title: 리뷰관리
+      url: /delivery_manual_03.html
+      output: web, pdf
+    
+    - title: 부가세신고내역조회
+      url: /delivery_manual_04.html
+      output: web, pdf
+  
+  - title: 쿠팡이츠
+    output: web, pdf
+    folderitems:
+
+    - title: 정산내역조회
+      url: /delivery_manual_05.html
+      output: web, pdf
+
+    - title: 매출내역조회
+      url: /delivery_manual_06.html
+      output: web, pdf
+    
+    - title: 부가세신고내역조회
+      url: /delivery_manual_07.html
+      output: web, pdf
+
+    - title: 음식점정보조회
+      url: /delivery_manual_08.html
+      output: web, pdf
+
+  - title: 요기요
+    output: web, pdf
+    folderitems:
+
+    - title: 정산내역조회
+      url: /delivery_manual_09.html
+      output: web, pdf
+    
+    - title: 매출내역조회
+      url: /delivery_manual_10.html
+      output: web, pdf
+    
+    - title: 리뷰관리
+      url: /delivery_manual_11.html
+      output: web, pdf
+
+    - title: 부가세신고내역조회
+      url: /delivery_manual_12.html
+      output: web, pdf
+
+
+
+    
+
+    
+
+    
+    
+
+    
+    

@@ -250,3 +250,20 @@ entries:
       - title: 기간별 입금내역조회
         url: /MLCSGM_manual_04.html
         output: web, pdf
+      
+      - title: 가맹점 수수료율/대금지급주기
+        url: /MLCSGM_manual_05.html
+        output: web, pdf
+      
+      - title: 월별 매입집계 조회
+        url: /MLCSGM_manual_06.html
+        output: web, pdf
+
+      - title: 하위 가맹점 추가
+        url: /MLCSGM_manual_07.html
+        output: web, pdf
+      
+      - title: 하위 가맹점 삭제
+        url: /MLCSGM_manual_08.html
+        output: web, pdf
+    
