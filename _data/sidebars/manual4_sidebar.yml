@@ -9,7 +9,7 @@ entries:
   - title:
     output: pdf
     type: frontmatter
-    folderitems:
+    folderitems:     
     - title:
       url: /titlepage.html
       output: pdf
@@ -18,6 +18,7 @@ entries:
       url: /tocpage.html
       output: pdf
       type: frontmatter
+  
 
   - title: 승인내역조회
     output: web, pdf
@@ -47,6 +48,20 @@ entries:
       url: /card_manual_06.html
       output: web, pdf
     
+    - title: 현대법인카드
+      url: /card_manual_30.html
+      output: web, pdf
+
+    - title: 삼성법인카드
+      url: /card_manual_35.html
+      output: web, pdf
+    
+    - title: 신한법인카드
+      url: /card_manual_39.html
+      output: web, pdf
+
+   
+      
     # - title: 삼성법인카드
     #   url: /card_manual_07.html
     #   output: web, pdf
@@ -78,3 +93,166 @@ entries:
   - title: 매입내역조회
     output: web, pdf
     folderitems:
+
+    - title: KB법인카드
+      url: /card_manual_12.html
+      output: web, pdf
+    
+    - title: NH법인카드
+      url: /card_manual_20.html
+      output: web, pdf
+    
+    
+    - title: BC법인카드
+      url: /card_manual_07.html
+      output: web, pdf
+
+    - title: 롯데법인카드
+      url: /card_manual_19.html
+      output: web, pdf
+
+    - title: 하나법인카드
+      url: /card_manual_23.html
+      output: web, pdf
+
+    - title: 우리법인카드
+      url: /card_manual_27.html
+      output: web, pdf
+    
+    - title: 현대법인카드
+      url: /card_manual_31.html
+      output: web, pdf
+
+    - title: 삼성법인카드
+      url: /card_manual_36.html
+      output: web, pdf
+    
+    - title: 신한법인카드
+      url: /card_manual_40.html
+      output: web, pdf
+
+  
+  
+  - title: 청구내역조회
+    output: web, pdf
+    folderitems:
+
+    - title: KB법인카드
+      url: /card_manual_13.html
+      output: web, pdf
+    
+    - title: NH법인카드
+      url: /card_manual_17.html
+      output: web, pdf
+
+    - title: BC법인카드
+      url: /card_manual_08.html
+      output: web, pdf
+    
+    - title: 롯데법인카드
+      url: /card_manual_21.html
+      output: web, pdf
+    
+    - title: 하나법인카드
+      url: /card_manual_24.html
+      output: web, pdf
+    
+    - title: 우리법인카드
+      url: /card_manual_28.html
+      output: web, pdf
+    
+    - title: 현대법인카드
+      url: /card_manual_32.html
+      output: web, pdf
+    
+    - title: 삼성법인카드
+      url: /card_manual_37.html
+      output: web, pdf
+    
+    - title: 신한법인카드
+      url: /card_manual_41.html
+      output: web, pdf
+
+
+
+  - title: 하이패스조회
+    output: web, pdf
+    folderitems:
+
+    - title: KB법인카드
+      url: /card_manual_16.html
+      output: web, pdf
+
+    - title: BC법인카드
+      url: /card_manual_09.html
+      output: web, pdf
+    
+    - title: 하나법인카드
+      url: /card_manual_25.html
+      output: web, pdf
+    
+    - title: 신한법인카드
+      url: /card_manual_43.html
+      output: web, pdf
+
+
+
+  - title: 전카드조회
+    output: web, pdf
+    folderitems:
+
+    - title: KB법인카드
+      url: /card_manual_15.html
+      output: web, pdf
+
+    - title: NH법인카드
+      url: /card_manual_18.html
+      output: web, pdf
+
+    - title: BC법인카드
+      url: /card_manual_10.html
+      output: web, pdf
+
+    - title: 롯데법인카드
+      url: /card_manual_22.html
+      output: web, pdf
+    
+    - title: 우리법인카드
+      url: /card_manual_29.html
+      output: web, pdf
+    
+    - title: 현대법인카드
+      url: /card_manual_33.html
+      output: web, pdf
+    
+    - title: 삼성법인카드
+      url: /card_manual_38.html
+      output: web, pdf
+
+    - title: 신한법인카드
+      url: /card_manual_42.html
+      output: web, pdf
+
+  - title: 가맹점조회
+    output: web, pdf
+    folderitems:
+
+    - title: KB법인카드
+      url: /card_manual_14.html
+      output: web, pdf
+
+    - title: BC법인카드
+      url: /card_manual_11.html
+      output: web, pdf
+    
+    - title: 하나법인카드
+      url: /card_manual_26.html
+      output: web, pdf
+
+    - title: 현대법인카드
+      url: /card_manual_34.html
+      output: web, pdf
+    
+    - title: 신한법인카드
+      url: /card_manual_44.html
+      output: web, pdf

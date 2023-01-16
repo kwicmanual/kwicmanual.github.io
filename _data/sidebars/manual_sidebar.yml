@@ -94,6 +94,10 @@ entries:
     - title: 현금영수증 사용내역조회
       url: /hometax_manual_18.html
       output: web, pdf
+    
+    - title: 근로소득자 원천징수내역(원천징수영수증) 조회
+      url: /hometax_manual_19.html
+      output: web, pdf
 
   - title: 정부24
     output: web, pdf
@@ -265,5 +269,13 @@ entries:
       
       - title: 하위 가맹점 삭제
         url: /MLCSGM_manual_08.html
+        output: web, pdf
+
+  - title: 희망이음
+    output: web, pdf
+    folderitems:
+
+      - title: 공문승인처리결과 조회
+        url: /MLSSGM_manual_01.html
         output: web, pdf
     
