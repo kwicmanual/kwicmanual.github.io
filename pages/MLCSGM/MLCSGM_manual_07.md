@@ -25,8 +25,13 @@ folder: manual
    
 <left><img src="/images/MLCSGM/MLCSGM04.png" width="100%" height="100%"></left>
 
-## 5. 가맹점관리 하단페이지에 추가 버튼 클릭 후 팝업창에 알맞게 기입한 후 저장을 클릭해줍니다.
+## 5. 가맹점관리 하단페이지에 추가/수정 버튼 클릭 , 초기화버튼 클릭 후 항목에 알맞게 기입한 후 저장을 클릭해줍니다.
    
 <left><img src="/images/MLCSGM/MLCSGM19.png" width="100%" height="100%"></left>
+
+## 6. 확인버튼 클릭 후 가맹점 목록에 업데이트 되었는지 확인해줍니다.
+   
+<left><img src="/images/MLCSGM/MLCSGM21.png" width="100%" height="100%"></left>
+
 
 {% include links.html %}

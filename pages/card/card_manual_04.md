@@ -1,7 +1,7 @@
 ---
 title: 롯데법인카드 승인내역조회
 keywords: 롯데법인카드, 비씨법인카드, 법인카드, 승인내역조회
-last_updated: Sep 05, 2022
+last_updated: Dec 14, 2022
 tags: #[getting_started]
 summary: "롯데법인카드 장애 알람발생시 홈페이지에서 확인해야 할 사항 기재함."
 sidebar: manual4_sidebar
@@ -11,16 +11,21 @@ folder: manual
 
 {% include MCLTCM_Login.md %}
 
-페이지 작업 중입니다.
+## 3. 승인내역 조회 메뉴를 클릭합니다.
+    MY> 이용금액조회 > 승인내역
+<left><img src="/images/card/card65.png" width="100%" height="100%"></left>
 
-<!-- ## 3. 승인내역 조회 메뉴를 클릭합니다.
-    메뉴: 카드이용조회 > 승인내역조회
-<left><img src="/images/card/card13.png" width="100%" height="100%"></left>
+## 4. 검색버튼을 클릭합니다.
+<left><img src="/images/card/card66.png" width="100%" height="100%"></left>
 
-## 4. 카드번호 입력 후 조회 버튼을 클릭합니다.
-<left><img src="/images/card/card14.png" width="100%" height="100%"></left>
+## 5. 카드번호를 입력 후 조회버튼을 클릭하여 조회되는 카드번호를 클릭합니다.
+<left><img src="/images/card/card67.png" width="100%" height="100%"></left>
 
-## 5. 승인내역 조회 결과를 확인합니다.
-<left><img src="/images/card/card15.png" width="100%" height="100%"></left> -->
+## 6. 조회버튼을 클릭합니다.
+<left><img src="/images/card/card68.png" width="100%" height="100%"></left>
+
+## 7. 승인내역을 확인합니다.
+<left><img src="/images/card/card69.png" width="100%" height="100%"></left>
+
 
 {% include links.html %}

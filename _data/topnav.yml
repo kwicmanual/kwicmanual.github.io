@@ -29,6 +29,8 @@ topnav_dropdowns:
           url: /card_manual_01.html
         - title: "기타"
           url: /manual_datahub.html
+        - title: "배달앱"
+          url: /delivery_manual_01.html
 
     - title: 데이터 대시보드
       folderitems:

@@ -98,6 +98,10 @@ entries:
     - title: 근로소득자 원천징수내역(원천징수영수증) 조회
       url: /hometax_manual_19.html
       output: web, pdf
+    
+    - title: 전자신고 결과조회
+      url: /hometax_manual_20.html
+      output: web, pdf
 
   - title: 정부24
     output: web, pdf
@@ -278,4 +282,32 @@ entries:
       - title: 공문승인처리결과 조회
         url: /MLSSGM_manual_01.html
         output: web, pdf
+
+  - title: 고용/산재보험 토탈서비스
+    output: web, pdf
+    folderitems:
+      
+      - title: 로그인세션추출
+        url: /COMWGM_manual_05.html
+        output: web, pdf
+
+      - title: 보수총액 신고내역
+        url: /COMWGM_manual_01.html
+        output: web, pdf
     
+      - title: 사업장요율조회(20206)
+        url: /COMWGM_manual_02.html
+        output: web, pdf
+      
+      - title: 사회보험료지원금 정보조회
+        url: /COMWGM_manual_03.html
+        output: web, pdf
+
+      - title: 근로자고용정보현황조회
+        url: /COMWGM_manual_04.html
+        output: web, pdf
+
+      - title: 근로내용확인신고 현황 조회
+        url: /COMWGM_manual_06.html
+        output: web, pdf
+
