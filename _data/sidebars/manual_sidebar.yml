@@ -310,4 +310,25 @@ entries:
       - title: 근로내용확인신고 현황 조회
         url: /COMWGM_manual_06.html
         output: web, pdf
+  
+  - title: 온나라 내토지찾기
+    output: web, pdf
+    folderitems:
+      
+      - title: 내 토지 찾기조회
+        url: /MLONGM_manual_01.html
+        output: web, pdf
+
+  - title: 안전보건공단
+    output: web, pdf
+    folderitems:
+      
+      - title: 산업재해율확인서 신청
+        url: /MLSHGM_manual_01.html
+        output: web, pdf
+      
+      - title: 산업재해율확인서 요청기간 조회
+        url: /MLSHGM_manual_02.html
+        output: web, pdf
+
 
